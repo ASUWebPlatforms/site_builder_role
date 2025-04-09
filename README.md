@@ -1,5 +1,8 @@
 # Site Builder Role Recipe
 
+## DEPRECATED
+Note: A change to how the modules are coded has made this recipe obsolete.
+
 ## Introduction
 This recipe is intended to be used to create a base Site Builder role for a Drupal site. 
 ## Requirements
